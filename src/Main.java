@@ -1,4 +1,4 @@
-package academy.learnprogramming;
+package random.numbergenerator;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
