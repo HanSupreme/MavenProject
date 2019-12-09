@@ -1,1 +1,1 @@
-# MavenProject
+# Random Number Generator Program
