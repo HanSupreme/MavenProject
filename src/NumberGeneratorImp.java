@@ -1,4 +1,4 @@
-package academy.learnprogramming;
+package random.numbergenerator;
 
 import java.util.Random;
 
