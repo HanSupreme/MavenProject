@@ -1,4 +1,4 @@
-package academy.learnprogramming;
+package random.numbergenerator;
 
 public interface NumberGenerator {
 
